@@ -1,9 +1,9 @@
 # Digital literacy project
 
 ## Student Details
-- Name: Aradhya Dubey 
-- Registration Number:25MEI10063
-- Branch: Int.Mtech.cybersecurity  
+- Name: Aayush Gupta
+- Registration Number: 25BAI10487
+- Branch: BTECH AI and ML  
 - Course Code: CSE0001  
 - University: VIT Bhopal University  
 
